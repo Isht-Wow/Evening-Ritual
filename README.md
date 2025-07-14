@@ -6,15 +6,15 @@ A terminal-based Java game inspired by *Buckshot Roulette* (by Mike Klubnika), f
 ## 📜 Version History
 
 - **v0.00.1-alpha** & **v0.00.3-beta** & **v0.00.6-beta**  
-  Focused on initial user interface and core game logic, AI development and basic game playability. 
-  ⚠️ *Note: The game is not playable in these versions as most core features are under development.*
+  -Focused on initial user interface and core game logic, AI development and basic game playability. 
+  -⚠️ *Note: The game is not playable in these versions as most core features are under development.*
 
 - **v0.00.10-dev**  
-  ✅ First playable gameplay loop.
-  🎞️ Introduces ASCII animations and experimental features.
-  🐛 UI is buggy and inconsistent.
-  🤕 Poor UX — gameplay quality is not well-considered.
-  ⚗️ Includes several half-baked mechanics.
+  -✅ First playable gameplay loop.
+  -🎞️ Introduces ASCII animations and experimental features.
+  -🐛 UI is buggy and inconsistent.
+  -🤕 Poor UX — gameplay quality is not well-considered.
+  -⚗️ Includes several half-baked mechanics.
    
 
 ---
